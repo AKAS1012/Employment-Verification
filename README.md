@@ -16,7 +16,7 @@ Note -
      Company_Name = "Tenda",
      Verification_Code = "15"
  }
- in API Url then given the message verified.---
+ in API Url then given the message verified.<br/>
  2. if above given json data is not payload so given not verified message.---
  #In react frontend--
  3 -if given mention json as in input field so given popup verified otherwise not verifed.--
