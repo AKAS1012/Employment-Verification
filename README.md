@@ -18,5 +18,5 @@ Note -
  }
  in API Url then given the message verified.<br/>
  2. if above given json data is not payload so given not verified message.<br/>
- #In react frontend--
+ #In react frontend <br/>
  3 -if given mention json as in input field so given popup verified otherwise not verifed.<br/>
