@@ -1,5 +1,5 @@
 # Employment-Verification
-#Backend--
+#Backend<br/>
 Note -
   1- given the any of these input for json data {
     Employee_ID = 1,
@@ -17,6 +17,6 @@ Note -
      Verification_Code = "15"
  }
  in API Url then given the message verified.<br/>
- 2. if above given json data is not payload so given not verified message.---
+ 2. if above given json data is not payload so given not verified message.<br/>
  #In react frontend--
- 3 -if given mention json as in input field so given popup verified otherwise not verifed.--
+ 3 -if given mention json as in input field so given popup verified otherwise not verifed.<br/>
